@@ -1,0 +1,1 @@
+[{"buyprice":20,"required":false,"name":"Часы","sellprice":200000,"number":5,"disposable":true},{"buyprice":20,"required":true,"name":"Ларец организации","sellprice":200000,"number":5},{"buyprice":20,"required":false,"name":"Камень","sellprice":200000,"number":5,"disposable":false}]
